@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Muhammad Muzammil 
-- 👀 I’m interested in Machine Learning and JavaScript
+- 👀 I’m interested in Machine Learning and Web Development
 - 🌱 I’m currently learning Python and JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
